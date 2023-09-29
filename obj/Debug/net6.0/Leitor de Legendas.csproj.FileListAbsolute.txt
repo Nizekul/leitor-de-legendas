@@ -1,0 +1,14 @@
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\bin\Debug\net6.0\Leitor de Legendas.exe
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\bin\Debug\net6.0\Leitor de Legendas.deps.json
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\bin\Debug\net6.0\Leitor de Legendas.runtimeconfig.json
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\bin\Debug\net6.0\Leitor de Legendas.dll
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\bin\Debug\net6.0\Leitor de Legendas.pdb
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\Leitor de Legendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\Leitor de Legendas.AssemblyInfoInputs.cache
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\Leitor de Legendas.AssemblyInfo.cs
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\Leitor de Legendas.csproj.CoreCompileInputs.cache
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\Leitor de Legendas.dll
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\refint\Leitor de Legendas.dll
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\Leitor de Legendas.pdb
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\Leitor de Legendas.genruntimeconfig.cache
+C:\Users\lglaj\source\repos\Leitor de Legendas\Leitor de Legendas\obj\Debug\net6.0\ref\Leitor de Legendas.dll
