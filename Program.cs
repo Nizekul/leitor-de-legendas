@@ -19,7 +19,7 @@ class Program
             string[] arquivosSRT = Directory.GetFiles(filePath, "*.srt");
             int contador = 1;
 
-            // Use uma expressão regular para encontrar todas as palavras nas legendas
+            // Definindo o que o Regex vai retirar do texto
             Regex regex = new Regex(@"\b[\p{L}'\p{M}]+\b");
 
             // Pegando o nome sem a extensao
